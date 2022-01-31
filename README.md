@@ -1,3 +1,3 @@
-# Weather App Project
+# Weather App Project GUI
 
-Made a weather app showing forecasts using python GUI, Openweathermap api and tkinter for my CP1890 Python II course project.
+Made a full working weather app showing forecasts like temp, wind speed, feels like temp and many more. Used Python-GUI, Openweathermap api and Tkinter for this CP1890 Python II course project.
