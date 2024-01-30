@@ -2,6 +2,11 @@
 
 This project is a full working weather app that displays forecasts such as temperature, wind speed, feels like temperature, and more. It was developed as a part of the CP1890 Python II course project, utilizing Python GUI, OpenWeatherMap API, and Tkinter.
 
+## Screenshots
+
+![Screenshot-weather-app](https://github.com/ImransCodeHub/Weather_App/assets/97769980/52cb01ea-d0ed-4108-bdc2-7b72df76f3e9)
+![Screenshot-weather-app-2](https://github.com/ImransCodeHub/Weather_App/assets/97769980/9353782a-c868-4cbf-93aa-22b6dfcec003)
+
 ## Features
 
 - Displays current weather information including temperature, wind speed, humidity, and more.
@@ -38,11 +43,6 @@ This project is a full working weather app that displays forecasts such as tempe
    ```
 
 6. Enter the desired location and click on the "Get Weather" button to retrieve the current weather and forecast information.
-
-## Screenshots
-
-![Screenshot-weather-app](https://github.com/ImransCodeHub/Weather_App/assets/97769980/52cb01ea-d0ed-4108-bdc2-7b72df76f3e9)
-![Screenshot-weather-app-2](https://github.com/ImransCodeHub/Weather_App/assets/97769980/9353782a-c868-4cbf-93aa-22b6dfcec003)
 
 ## Dependencies
 
